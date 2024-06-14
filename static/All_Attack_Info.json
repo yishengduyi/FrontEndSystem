@@ -1,0 +1,20 @@
+[
+  {
+    "attackinfo": "尝试弱口令暴力破解管理员密码",
+    "release_time": "2022.02.26",
+    "resolve": "已解决",
+    "bugtype": "暴力破解"
+  },
+  {
+    "attackinfo": "反射型XSS注入使得窗口有弹窗广告",
+    "release_time": "2022.02.25",
+    "resolve": "未解决",
+    "bugtype": "XSS攻击"
+  },
+  {
+    "attackinfo": "对cookie中的加密字符串修改进而写马进文件",
+    "release_time": "2022.02.26",
+    "resolve": "未解决",
+    "bugtype": "反序列化"
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "name": "百度",
+    "url": "http://www.baicu.com",
+    "page": 66,
+    "isNonProfit": true,
+    "address": {
+        "street": "海淀区",
+        "city": "北京市",
+        "countru": "中国"
+    },
+    "links": [
+        {
+            "name": "Goole",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "Baidu",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "Sougou",
+            "url": "http://www.sougou.com"
+        }
+    ]
+}
